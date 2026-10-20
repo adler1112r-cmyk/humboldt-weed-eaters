@@ -146,13 +146,13 @@ footer a{color:var(--lime)}
 
     <!-- New gallery photo 3 -->
     <figure>
-      <img src="/static/yard-done-3.jpg" alt="Hillside yard cleanup">
+      <img src="/static/1000009118.jpg" alt="Hillside yard cleanup">
       <figcaption>Hillside weed whacking and yard cleanup</figcaption>
     </figure>
 
     <!-- New gallery photo 4 -->
     <figure>
-      <img src="/static/yard-done-4.jpg" alt="Driveway and fence-line trimming">
+      <img src="/static/1000009119.jpg" alt="Driveway and fence-line trimming">
       <figcaption>Driveway and fence-line trimming</figcaption>
     </figure>
   </div>
